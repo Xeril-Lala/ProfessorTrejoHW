@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Mapa with OpenLayers</title>
+    <script src="https://openlayers.org/en/v3.20.1/build/ol.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://openlayers.org/en/v3.20.1/css/ol.css" type="text/css">
+</head>
+<body>
+    <main role="main" class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1>Demostración mapas con OpenLayers</h1>
+            </div>
+            <div class="col-12 mb-2">
+                <div class="form-group">
+                     <label for="selectCategorias">Categoría:</label>
+                    <select class="form-control" id="selectCategorias">
+                    <option value="veterinarias">Veterinarias</option>
+                    <option value="pizzerias">Pizzerías</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-12">
+                <div id="mapa"></div>
+            </div>
+        </div>
+    </main>
+    <script type="text/javascript" src="script.js"></script>
+ </body>
+</html>

@@ -1,0 +1,10 @@
+/*48.85900536217635, 2.2926144809384033 Carrusel Torre Eifel*/
+/*43.72309929783309, 10.396543354033707 Torre de Pisa*/
+/*48.859005, 2.292615*/
+/*latitud, longitud*/
+/*latitud horizontal, distancia del Ecuador*/
+/*longitud vertical, distancia del meridiano origen*/
+
+/*AIzaSyCGzVJcqkqEKo9Lwf0TXafQqdb_DMSrH98*/
+/*Clave Api*/
+
